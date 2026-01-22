@@ -2,6 +2,10 @@
 
 Go实现用于Windows系统的进程隐藏工具，通过DLL注入技术将指定进程从任务管理器中隐藏。
 
+## 效果展示
+
+<img width="1368" height="494" alt="image" src="https://github.com/user-attachments/assets/e3770843-16a1-45e2-96ca-1a6518833bd5" />
+
 ## 技术细节
 
 ### 主要组件
